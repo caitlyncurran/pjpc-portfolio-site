@@ -24,13 +24,13 @@ function Home() {
             </Card>
             <Link onClick={scrollToTop} style={{textDecoration: "none"}} to={'/allWorks'}>
             <Card>
-                <img className='laptop_img' src="/src/assets/mastered works.png" alt="Mastered Works" />
+                <img className='laptop_img' src="./src/assets/mastered works.png" alt="Mastered Works" />
                 <div>
                 <h3>Mastered Works</h3>
                 <hr />
                 <p>Mastered works for various clients</p>
                 </div>
-                <img className='mobile_img' src="/src/assets/mastered works.png" alt="Mastered Works" />
+                <img className='mobile_img' src="./src/assets/mastered works.png" alt="Mastered Works" />
             </Card>
             </Link>
             <Link onClick={scrollToTop} style={{textDecoration: "none"}} to={'/anime'}>
@@ -40,7 +40,7 @@ function Home() {
                 <hr />
                 <p>Co-produced and mixed works</p>
                 </div>
-                <img src="/src/assets/animemusiclogo.png" alt="Anime Music Logo" />
+                <img src="./src/assets/animemusiclogo.png" alt="Anime Music Logo" />
             </Card>
             </Link>
             <LinkWrapper><WLink onClick={scrollToTop} to={'/allWorks'}>view all works</WLink></LinkWrapper>
@@ -76,7 +76,7 @@ const Pjpc = styled.div`
     text-align: center;
     height: 100%;
     width: 100%;
-    background-image: url('/src/assets/PJPC logo_whitetranslucent.png');
+    background-image: url('./src/assets/PJPC logo_whitetranslucent.png');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
