@@ -4,7 +4,7 @@ const works = [{
     artist: "Anime Music",
     genre: "Pop/Rock",
     role: "composed, recorded, mixed",
-    image: "./src/assets/animeppb.jpg",
+    image: "https://caitlyncurran.github.io/pjpc-portfolio-site/src/assets/animeppb.jpg",
     links: {
         spotify: "https://open.spotify.com/track/7G6Ti9zhAhOE9vlHHDyaD3?si=cf529558e1ef4a55&nd=1&dlsi=7e7f92fa569a49db",
         apple: "https://music.apple.com/us/album/power-pop-banger/1732835003?i=1732835004",
