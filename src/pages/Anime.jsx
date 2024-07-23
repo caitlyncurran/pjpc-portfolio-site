@@ -4,7 +4,7 @@ import { device } from '../device'
 function Anime() {
   return (
     <Wrapper>
-        <img src="/assets/animemusiclogo.png" alt="Anime Music Logo" />
+        <img src="/src/assets/animemusiclogo.png" alt="Anime Music Logo" />
         <div>
         <p><a href="https://animemusic.nyc/">Anime Music</a> brings back that feeling you had during the early days of YouTube - when you were watching Naruto AMVs set to the sounds of bands like Linkin Park and My Chemical Romance.</p>
         <p>Using modern production techniques, Anime Music combines genres like pop punk, emo, and indie to revitalize that inescapable mid-2000s alt-rock sound. The music features driving guitar riffs, explosive vocals, and propulsive drumming that will transport you back to the days of laying in bed late at night glued to the screen of your first generation iPod touch.</p>

@@ -4,7 +4,7 @@ const works = [{
     artist: "Anime Music",
     genre: "Pop/Rock",
     role: "composed, recorded, mixed",
-    image: "/assets/animeppb.jpg",
+    image: "/src/assets/animeppb.jpg",
     links: {
         spotify: "https://open.spotify.com/track/7G6Ti9zhAhOE9vlHHDyaD3?si=cf529558e1ef4a55&nd=1&dlsi=7e7f92fa569a49db",
         apple: "https://music.apple.com/us/album/power-pop-banger/1732835003?i=1732835004",
@@ -19,7 +19,7 @@ const works = [{
     label: "Also Audio",
     genre: "Electronic/Club",
     role: "mastered",
-    image: "/assets/also2.jpg",
+    image: "/src/assets/also2.jpg",
     links: {
         bandcamp: "https://alsoaudio.bandcamp.com/album/also-two"
     },
@@ -31,7 +31,7 @@ const works = [{
     label: "Also Audio",
     genre: "Electronic/Club",
     role: "mastered",
-    image: "/assets/potential.jpeg",
+    image: "/src/assets/potential.jpeg",
     links: {
         bandcamp: "https://alsoaudio.bandcamp.com/album/potential"
     },
@@ -42,7 +42,7 @@ const works = [{
     artist: "Small Hoop, adge",
     genre: "Electronic/Club",
     role: "mastered",
-    image: "/assets/adgeuremix.jpeg",
+    image: "/src/assets/adgeuremix.jpeg",
     links: {
         bandcamp: "https://adge.bandcamp.com/track/small-hoop-u-adge-remix",
         spotify: "https://open.spotify.com/track/5rfuw5Rewh7Qb2JXRyFhrP?si=d3219077e83b4119",
@@ -55,7 +55,7 @@ const works = [{
     artist: "Anime Music",
     genre: "Pop/Rock",
     role: "composed, recorded, mixed",
-    image: "/assets/animecoverwoods.png",
+    image: "/src/assets/animecoverwoods.png",
     links: {
         spotify: "https://open.spotify.com/track/0qbrle3M9Yj28rOabuDRAq?si=-ePzBt8-T-m9h9_aoV1FFA",
         apple: "https://music.apple.com/us/album/the-final-act/1686281211?i=1686281212",
@@ -70,7 +70,7 @@ const works = [{
     label: "Also Audio",
     genre: "Electronic/Club",
     role: "mastered",
-    image: "/assets/g2tm.jpg",
+    image: "/src/assets/g2tm.jpg",
     links: {
         bandcamp: "https://alsoaudio.bandcamp.com/album/goin-2-the-mall-thrower"
     },
@@ -81,7 +81,7 @@ const works = [{
     artist: "Anime Music",
     genre: "Pop/Rock",
     role: "composed, played keys/synths, assisted production",
-    image: "/assets/animecovercry_final.png",
+    image: "/src/assets/animecovercry_final.png",
     links: {
         spotify: "https://open.spotify.com/track/24gXuikyCHMeN1CTpq8jW1?si=9668e216b82f4ae7",
         apple: "https://music.apple.com/us/album/villains-theme-feat-paper-geese/1681990554?i=1681990555",
@@ -94,7 +94,7 @@ const works = [{
     artist: "Anime Music",
     genre: "Pop/Rock",
     role: "composed, played bass, assisted production",
-    image: "/assets/animeluffy-studio.jpeg",
+    image: "/src/assets/animeluffy-studio.jpeg",
     links: {
         spotify: "https://open.spotify.com/track/6SlZiIQn9GFMyOA5ECntf8?si=db3efc124a664301",
         apple: "https://music.apple.com/us/album/heros-theme-feat-paper-geese/1676079294?i=1676079295",
