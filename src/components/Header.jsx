@@ -14,7 +14,7 @@ function Header() {
     console.log(menuOpen);
   return (
     <div>
-    <Logo><NavLink onClick={()=> {setMenuOpen(false); scrollToTop();}} to={'/'} ><img src="/src/assets/logo_whiteontranslucent.png" alt="pjpc logo" /></NavLink></Logo>
+    <Logo><NavLink onClick={()=> {setMenuOpen(false); scrollToTop();}} to={'/'} ><img src="./assets/logo_whiteontranslucent.png" alt="pjpc logo" /></NavLink></Logo>
     <Menu onClick={()=> {setMenuOpen(!menuOpen)}}><HiMenu size={50}/></Menu>
     <List className={menuOpen && "open"}>
         <NavLink onClick={()=> {setMenuOpen(false); scrollToTop();}} style={{textDecoration: "none", color: "white"}} to={'/about'}>
