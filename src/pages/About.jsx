@@ -12,19 +12,19 @@ function About() {
         <h1>Patrick John Paul Curran</h1>
       </TopWrapper>
       <ImageWrapper>
-        <img src="/src/assets/pjpc profile pic.png" alt="Patrick John Paul Curran Profile" />
+        <img src="/assets/pjpc profile pic.png" alt="Patrick John Paul Curran Profile" />
         <div>
           <h2>Working every day to get that sound out of my head and into your ears.</h2>
           <p>I do composition, recording, production, mixing, and mastering work at City Biking Music in Long Island City.</p>
         </div>
       </ImageWrapper>
       <ImageWrapper2>
-        <img className="mobile_studio" src="/src/assets/studio pic.png" alt="PJPC Studio" />
+        <img className="mobile_studio" src="/assets/studio pic.png" alt="PJPC Studio" />
         <div>
           <h3>Need your song mastered?</h3>
           <p>Allow me to lend my ears to your project. Through signal correction, gain adjustment, and careful routing through compressors and equalizers, my mastering process focuses close attention to detail and brings your track up to a competitive loudness. All in the box.</p>
         </div>
-        <img className="laptop_studio" src="/src/assets/studio pic.png" alt="PJPC Studio" />
+        <img className="laptop_studio" src="/assets/studio pic.png" alt="PJPC Studio" />
       </ImageWrapper2>
       <BottomWrapper>
         <p>Unlimited revisions. The job is not done until you are completely satisfied.</p>
