@@ -1,0 +1,12 @@
+body {
+    line-height: 2vh;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+    color: white;
+    background-color: #1D1D1D;
+}
+
+h2 {
+    line-height: 3vh;
+    font-weight: 400;
+}
